@@ -13,14 +13,12 @@ function App() {
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn Javascript, React and React Native
+          rel="noopener noreferrer">
+          Learn JavaScript, React and React Native
         </a>
       </header>
     </div>
   );
-  - name: create build
-  41
-          run: npm run build 
+}
+
 export default App;
