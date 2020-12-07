@@ -20,6 +20,7 @@ function App() {
       </header>
     </div>
   );
-}
-
+  - name: create build
+  41
+          run: npm run build 
 export default App;
